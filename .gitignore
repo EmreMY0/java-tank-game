@@ -6,6 +6,6 @@
 # VS Code
 .vscode/
 
-# OS geçici dosyaları
+# OS temp files
 .DS_Store
 Thumbs.db
