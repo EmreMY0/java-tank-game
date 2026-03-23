@@ -1,0 +1,11 @@
+# Java
+/bin/
+/out/
+/*.class
+
+# VS Code
+.vscode/
+
+# OS geçici dosyaları
+.DS_Store
+Thumbs.db
